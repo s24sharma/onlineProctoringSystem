@@ -1,4 +1,4 @@
-# onlineProctoringSystem
+# onlineProctoringSystem----------------------
 
 TITLE : Online proctoring using Computer Vision.
 
@@ -44,4 +44,8 @@ ring
 
 TEAM :
 1. Sahil Sharma (19MCA037)
+<<<<<<< HEAD
 2. Srijan Bhardwaj (19MCA047)
+=======
+2. Srijan Bhardwaj (19MCA047)
+>>>>>>> 4633a0c1f3a6f2b957a85c4ad891566d6a315773
