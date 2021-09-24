@@ -44,7 +44,6 @@ ring
 
 TEAM :
 1. Sahil Sharma (19MCA037)
-<<<<<<< HEAD
 2. Srijan Bhardwaj (19MCA047)
 =======
 
